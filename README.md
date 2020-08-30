@@ -7,3 +7,4 @@ Here is a video of the presentation of this app:
 
 Screenshot of the app:\
 ![](images/stopWatchPic.png)
+
