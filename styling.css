@@ -1,0 +1,74 @@
+/*styling.css*/
+/*My own modification*/
+.controlButton{
+    color: beige;
+    background-color: burlywood;
+    height: 10vw;
+    width: 10vw;
+    border-radius: 43%;
+    text-align: center;
+    padding: 20% 0;
+    font-size: 3vw;
+   cursor: pointer;
+}
+/*My own modification*/
+.controlButton:hover{
+    background-color: beige;
+    color: burlywood;
+} 
+
+/*My own modification*/
+.controlButton:active{
+    color: beige;
+    background-color: burlywood;
+}
+body {
+    background: url(images/tree.jpg) center center fixed;
+    background-size: cover;
+    color: #fff;
+}
+
+
+#header{
+    text-align: center;
+    font-family: cursive , serif;
+    font-size: 10vw;
+}
+
+#lap{
+    text-align: right;
+    font-size: 5vw;
+}
+
+
+#time{
+    text-align: center;
+    font-size: 14vw;
+}
+
+
+#buttonsPanel{
+    margin-bottom: 100px;   
+}
+
+
+#laps{
+    max-height: 270px;
+    overflow-y: scroll;
+}
+
+.lap{
+    height: 50px;
+    border-bottom: 1px solid white;
+    margin: 15px;
+}
+
+.laptimetitle{
+    font-size: 1.5em;
+    float: left;
+}
+
+.laptime{
+    font-size: 2em;
+    float: right;
+}
