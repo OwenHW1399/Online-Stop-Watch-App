@@ -1,4 +1,4 @@
-# Online-Stop-Watch-App
+# Online-Timer-App
 A web-based stop watch application that can record lap time.\
 This app is programmed using HTML, CSS, JavaScript, jQuery and Bootstrap.\
 Here is a video of the presentation of this app:
